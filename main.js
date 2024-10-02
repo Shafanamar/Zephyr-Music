@@ -1,4 +1,3 @@
-// main.js
 const { Client, GatewayIntentBits } = require('discord.js');
 const { Player } = require('discord-player');
 require('dotenv').config();
