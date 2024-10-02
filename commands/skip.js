@@ -1,4 +1,3 @@
-// commands/skip.js
 module.exports = {
   name: 'skip',
   description: 'Skip the current track',
