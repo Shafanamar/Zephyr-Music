@@ -1,4 +1,3 @@
-// commands/help.js
 const { EmbedBuilder } = require('discord.js');
 const { supportServer } = require('../config/config.json');
 
