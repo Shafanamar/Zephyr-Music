@@ -1,4 +1,3 @@
-// commands/queue.js
 const { EmbedBuilder } = require('discord.js');
 
 module.exports = {
