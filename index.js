@@ -1,4 +1,3 @@
-// index.js
 const { Client, GatewayIntentBits } = require('discord.js');
 const { Player } = require('discord-player');
 const fs = require('fs');
