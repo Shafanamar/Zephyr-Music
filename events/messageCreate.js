@@ -1,4 +1,3 @@
-// events/messageCreate.js
 const { prefix } = require('../config/config.json');
 
 module.exports = (client) => {
