@@ -1,4 +1,3 @@
-// commands/stop.js
 module.exports = {
   name: 'stop',
   description: 'Stop the music',
